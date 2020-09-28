@@ -13,7 +13,7 @@
 
 .parallax1 {
   /* The image used */
-  background-image: url("https://www.glamsham.com/wp-content/uploads/2020/09/amazon-original-utopia.jpg");
+  background-image: url("https://github.com/sadasiva111/wt/blob/master/Bootstrap/Story/img/img1.jpg?raw=true");
 
   /* Set a specific height */
   min-height: 500px;
@@ -27,7 +27,7 @@
 
 .parallax2 {
   /* The image used */
-  background-image: url("https://i3.wp.com/bestmoviecast.com/wp-content/uploads/2020/09/Utopia-1170x605.jpg");
+  background-image: url("https://github.com/sadasiva111/wt/blob/master/Bootstrap/Story/img/img2.jpg?raw=true");
 
   /* Set a specific height */
   min-height: 500px;
@@ -41,7 +41,7 @@
 
 .parallax3 {
   /* The image used */
-  background-image: url("https://miro.medium.com/max/1200/1*3Uz6_8H7UGxJiyQ7rYTmKg.jpeg");
+  background-image: url("https://github.com/sadasiva111/wt/blob/master/Bootstrap/Story/img/img3.jpeg?raw=true");
 
   /* Set a specific height */
   min-height: 500px;
