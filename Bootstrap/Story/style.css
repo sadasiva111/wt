@@ -1,0 +1,66 @@
+.container1 {
+  background-color: aqua;
+  text-align: center;
+  color: darkgreen;
+}
+
+.container2 {
+    text-align: end;
+    color: darkblue;
+    padding-right: 10px;
+  }
+
+
+.parallax1 {
+  /* The image used */
+  background-image: url("https://www.glamsham.com/wp-content/uploads/2020/09/amazon-original-utopia.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("https://i3.wp.com/bestmoviecast.com/wp-content/uploads/2020/09/Utopia-1170x605.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  /* The image used */
+  background-image: url("https://miro.medium.com/max/1200/1*3Uz6_8H7UGxJiyQ7rYTmKg.jpeg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.conclusion{
+    color: darkblue;
+}
+
+.keypoints{
+    color: darkblue;
+}
+
+.mainstory{
+    color: darkblue;
+}
