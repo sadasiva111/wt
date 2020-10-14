@@ -18,12 +18,14 @@
     vertical-align: auto;
     padding-right: 0%;
     color: blue;
+    scroll-behavior: smooth;
 }
 
 .content {
     padding-top: 1%;
     overflow: scroll;
     height: 1440px;
+    scroll-behavior: smooth;
 }
 
 .navBar {
