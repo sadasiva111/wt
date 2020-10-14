@@ -1,0 +1,55 @@
+.header {
+    background-color: darkslategray;
+}
+
+.classBook {
+    margin-left: 8px;
+    margin-top: 2px;
+    color: cornsilk;
+}
+
+.main {
+    background-color: antiquewhite;
+}
+
+.sidebar {
+    overflow: scroll;
+    height: 1440px;
+    vertical-align: auto;
+    padding-right: 0%;
+    color: blue;
+}
+
+.content {
+    padding-top: 1%;
+    overflow: scroll;
+    height: 1440px;
+}
+
+.navBar {
+    background-color: darkslategray;
+}
+
+.navRow {
+    color: cornsilk;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.U1 {
+    color: aqua;
+}
+
+#ooo {
+    color: black;
+}
